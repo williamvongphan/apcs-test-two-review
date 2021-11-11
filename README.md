@@ -9,4 +9,4 @@ Remember, this is an open-source repository and you can make edits at any time i
 
 [Go to directory](https://thunderredstar.me/Test-2-Review/explanations)
 
-Made with ❤️ in Github and [![Nectarine](https://www.scenestream.net/static/emoticons/support-our-fruits.gif)](https://www.scenestream.net/demovibes/)
+Made with ❤️ with Github, Markdown, Java, Replit (for testing), the [Java Visualizer](https://cscircles.cemc.uwaterloo.ca/java_visualize/) and [![Nectarine](https://www.scenestream.net/static/emoticons/support-our-fruits.gif)](https://www.scenestream.net/demovibes/)
