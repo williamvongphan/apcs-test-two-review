@@ -27,7 +27,7 @@ c) exactly 1 line in one method, and 2 or more lines in the other method
 d) all of the lines in one method that contain "class"  
 e) None of these  
 ## Answer
-The question asks you to only comment out violations of the rules for **class members**. The above code block display
+The question asks you to only comment out violations of the rules for **class members**. The below code block displays the two lines that the compiler identifies as errors, and why. 
 
 ```java
 public class GrokStatic {
@@ -50,3 +50,7 @@ public class GrokStatic {
 	}
 }
 ```
+
+There are no errors in one method, and two errors in another method. 
+
+### **The answer is e).**
