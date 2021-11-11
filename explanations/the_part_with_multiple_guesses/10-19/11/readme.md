@@ -17,4 +17,4 @@ In Java, the compiler forces the program to obey the PEMDAS system and the opera
 `(int)(-0.75)`  
 `0`  
 
-### *The answer is a).**
+### **The answer is a).**
