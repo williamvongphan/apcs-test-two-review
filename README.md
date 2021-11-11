@@ -7,4 +7,4 @@ Remember, this is an open-source repository and you can make edits at any time i
 
 #### Think: `s i m p l e` Think: `s m a r t`!
 
-[Go to directory]("https://thunderredstar.me/Test-2-Review/explanations")
+[Go to directory](https://thunderredstar.me/Test-2-Review/explanations)
