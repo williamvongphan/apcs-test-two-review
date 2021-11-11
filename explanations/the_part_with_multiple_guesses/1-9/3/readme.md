@@ -2,7 +2,7 @@
 ## Question
 What will the following code output?
 ```java
-for (int i = 12; i > 0; x -= 3) {
+for (int i = 12; i > 0; i -= 3) {
 	System.out.println(i);
 }
 ```
