@@ -27,7 +27,7 @@ c) exactly 1 line in one method, and 2 or more lines in the other method
 d) all of the lines in one method that contain "class"  
 e) None of these  
 ## Answer
-The question asks you to only comment out violations of the rules for **class members**.
+The question asks you to only comment out violations of the rules for **class members**. The above code block display
 
 ```java
 public class GrokStatic {
@@ -36,9 +36,11 @@ public class GrokStatic {
 
 	public static void classMethod(int x) {
 		classField = 13;
-		instanceField = 17;
+		// instanceField = 17;
+		// referring to an instanceField from a static method. but which instance? therefore compiler throws error.
 		classMethod(19);
-		instanceMethod(23);
+		// instanceMethod(23);
+		// referring to an instanceMethod from a static method. but which instance? therefore compiler throws error.
 	}
 	public /* non-static */ void instanceMethod(int y) {
 		classField = 29;
