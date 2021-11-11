@@ -17,20 +17,20 @@ e) 0
 Again, it helps to visualize each step of the loop.
 0. `i = 0`  
 Is `i < 8`?
-0. `i = 0`  
+1. `i = 1`  
 Is `i < 8`?
-0. `i = 0`  
+2. `i = 2`  
 Is `i < 8`?
-0. `i = 0`  
+3. `i = 3`  
 Is `i < 8`?
-0. `i = 0`  
+4. `i = 4`  
 Is `i < 8`?
-0. `i = 0`  
+5. `i = 5`  
 Is `i < 8`?
-0. `i = 0`  
+6. `i = 6`  
 Is `i < 8`?
-0. `i = 0`  
+7. `i = 7`  
 Is `i < 8`?
-0. `i = 0`  
+8. `i = 8`  
 Is `i < 8`?
 
