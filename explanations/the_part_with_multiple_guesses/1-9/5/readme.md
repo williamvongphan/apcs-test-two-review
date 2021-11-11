@@ -5,6 +5,15 @@ In the code below, comment out assignments and method invocatiosn that the compi
 public class GrokStatic {
 	public static int classField;
 	public /* non-static */ int instanceField;
+
+	public static void classMethod(int x) {
+		classField = 13;
+		instanceField = 17;
+		classMethod(19);
+		instanceMethod(23);
+	}
+	public /* non-static */ void isntanceMeth
+	}
 }
 ```
 * a)
