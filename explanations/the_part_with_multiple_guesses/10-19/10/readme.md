@@ -23,3 +23,4 @@ c) 1
 d) -1
 e) None of these
 ## Answer
+This is a relatively simple question. 
