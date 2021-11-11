@@ -1,5 +1,6 @@
 # Directory
 Here are all the questions and links to them.
+[Back home](https://thunderredstar.me/Test-2-Review)
 
 1. [Question 1](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/1)  
 2. [Question 2](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/2)  
