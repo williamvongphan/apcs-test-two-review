@@ -22,3 +22,7 @@ Each bit means that the data type can hold two times as much data. Therefore, ea
 We start with `byte`. 
 
 A byte can hold numbers with a range of 256 (2^8). This starts from -128 and ends at 127. 
+
+Since `byte` can clearly hold this number, all other datatypes mentioned here can, so the answer is all of them. 
+
+### **The answer is d).**
