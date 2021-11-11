@@ -1,5 +1,5 @@
 # Test 0010 Review Info
-All explanations can be found in the `explanations` directory.
+All explanations can be found in the `explanations` directory. They can also be found here: https://thunderredstar.me/Test-2-Review/
 
 Each question is seperated into directories by question type, by number, and each question has its own directory where the readme file and a demo can be found. 
 
