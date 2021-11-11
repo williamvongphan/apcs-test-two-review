@@ -6,3 +6,5 @@ Each question is seperated into directories by question type, by number, and eac
 Remember, this is an open-source repository and you can make edits at any time if you find something wrong! You can make an issue, or if you're feeling adventurous, you can open a pull request!
 
 #### Think: `s i m p l e` Think: `s m a r t`!
+
+[Go to directory]("https://thunderredstar.me/Test-2-Review/explanations")
