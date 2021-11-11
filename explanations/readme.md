@@ -22,3 +22,9 @@ Here are all the questions and links to them.
 17. [Question 17](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/17)  
 18. [Question 18](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/18)  
 19. [Question 19](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/19)  
+
+20. [Question 20](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/20)  
+21. [Question 21](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/21)  
+22. [Question 22](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/22)  
+23. [Question 23](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/23)  
+24. [Question 24](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/24)  
