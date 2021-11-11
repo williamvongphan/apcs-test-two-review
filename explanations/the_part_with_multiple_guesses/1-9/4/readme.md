@@ -44,5 +44,7 @@ Yes, print i and continue loop.
 Is `i < 8`?
 No, stop loop, code block has finished execution.
 
-The final value of
+The final value of `i` is 8. 
+
+### **The answer is c)**
 
