@@ -7,4 +7,8 @@ c) `g = 5 / 7;`
 d) `g = 3.9 / 1.3;`
 e) None of these
 ## Answer
-Answer choice d) contains two floats, which, when divided, will return a float. This will return an error, since the compiler wants to avoid lossy conversion and will only do so
+Answer choice d) contains two floats, which, when divided, will return a float. This will return an error, since the compiler wants to avoid lossy conversion and will only do so when explicit typecasting occurs.
+
+The rest of the answer choices return ints and therefore are valid. 
+
+### **The answer is d).**
