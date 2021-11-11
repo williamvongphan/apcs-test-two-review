@@ -15,22 +15,34 @@ d) 9
 e) 0  
 ## Answer
 Again, it helps to visualize each step of the loop.
+
 0. `i = 0`  
 Is `i < 8`?
+Yes, print i and continue loop.  
 1. `i = 1`  
 Is `i < 8`?
+Yes, print i and continue loop.  
 2. `i = 2`  
 Is `i < 8`?
+Yes, print i and continue loop.  
 3. `i = 3`  
 Is `i < 8`?
+Yes, print i and continue loop.  
 4. `i = 4`  
 Is `i < 8`?
+Yes, print i and continue loop.  
 5. `i = 5`  
 Is `i < 8`?
+Yes, print i and continue loop.  
 6. `i = 6`  
 Is `i < 8`?
+Yes, print i and continue loop.  
 7. `i = 7`  
 Is `i < 8`?
+Yes, print i and continue loop.  
 8. `i = 8`  
 Is `i < 8`?
+No, stop loop, code block has finished execution.
+
+The final value of
 
