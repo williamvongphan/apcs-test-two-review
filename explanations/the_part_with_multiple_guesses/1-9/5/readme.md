@@ -12,7 +12,7 @@ public class GrokStatic {
 		classMethod(19);
 		instanceMethod(23);
 	}
-	public /* non-static */ void isntanceMeth
+	public /* non-static */ void instanceMethod(int y)
 	}
 }
 ```
