@@ -8,3 +8,5 @@ Remember, this is an open-source repository and you can make edits at any time i
 #### Think: `s i m p l e` Think: `s m a r t`!
 
 [Go to directory](https://thunderredstar.me/Test-2-Review/explanations)
+
+Made with ❤️ in Github and [![Nectarine](https://www.scenestream.net/static/emoticons/support-our-fruits.gif)](https://www.scenestream.net/demovibes/)
