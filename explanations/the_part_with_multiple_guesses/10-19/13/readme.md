@@ -6,3 +6,5 @@ b) The best code is written by solo programmers.
 c) Habitual peer review of code yields more robust software.   
 d) Pineapples don't have sleeves.   
 e) Cognitive dissonance leads to a reluctance to change course during development.   
+## Answer
+I honestly have got no idea. I think I heard e) in class once. 
