@@ -16,3 +16,5 @@ d) 321
 e) None of these  
 ## Answer
 As always, it's helpful to look at each iteration the loop takes on here. 
+
+0. `x = 123`
