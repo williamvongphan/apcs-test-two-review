@@ -25,4 +25,4 @@ A byte can hold numbers with a range of 256 (2^8). This starts from -128 and end
 
 Since `byte` can clearly hold this number, all other datatypes mentioned here can, so the answer is all of them. 
 
-### **The answer is d).**
+### **The answer is d).**[Question 11](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/11)[Question 13](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/13)

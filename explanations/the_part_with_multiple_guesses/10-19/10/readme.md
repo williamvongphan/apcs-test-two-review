@@ -32,4 +32,4 @@ Yes, therefore `s` is now 4.
 2. Is `h > t`?
 Yes, therefore `s = s + 1` and therefore `s = 5`. 
 
-### **The answer is a).**
+### **The answer is a).**[Question 9](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/9)[Question 11](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/11)
