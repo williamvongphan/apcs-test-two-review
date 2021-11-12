@@ -32,3 +32,4 @@ Look at the `func` method in the `recursion` class. The function seems to take i
 This is a runtime error as the compiler lets the code compile.
 
 ### **The answer is e).**
+[Question 8](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/8)

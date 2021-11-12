@@ -54,3 +54,6 @@ public class GrokStatic {
 There are no errors in one method, and two errors in another method. 
 
 ### **The answer is e).**
+[Question 4](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/4)
+
+[Question 6](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/6)

@@ -28,3 +28,6 @@ The rest of the definitions are:
 > In computer science, a lookup table (LUT) is an array that replaces runtime computation with a simpler array indexing operation.
 
 ### **The answer is a).**
+[Question 6](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/6)
+
+[Question 8](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/8)

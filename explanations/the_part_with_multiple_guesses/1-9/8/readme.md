@@ -12,3 +12,6 @@ Answer choice d) contains two floats, which, when divided, will return a float. 
 The rest of the answer choices return ints and therefore are valid. 
 
 ### **The answer is d).**
+[Question 7](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/7)
+
+[Question 9](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/9)

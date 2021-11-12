@@ -47,4 +47,6 @@ No, stop loop, code block has finished execution.
 The final value of `i` is 8. 
 
 ### **The answer is c)**
+[Question 3](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/3)
 
+[Question 5](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/5)

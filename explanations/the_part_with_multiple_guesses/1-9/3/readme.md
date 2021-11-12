@@ -33,3 +33,6 @@ No. Loop stops and code is done executing.
 The output is `"12963"`.
 
 ### **The answer is b).**
+[Question 2](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/2)
+
+[Question 4](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/4)

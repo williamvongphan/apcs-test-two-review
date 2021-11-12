@@ -23,3 +23,6 @@ Answer Choice D prints `9 + 95.0/100`, an int plus a float divided by an int. Th
 Answer Choice E prints `9 + "." + 95`, an int concatenated with a string concatenated with an int. This forces all the ints into string form, so it's the same as printing `"9" + "." + "95"`, or **9.95**.
 
 ### **The answer is c)**.
+[Question 1](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/1)
+
+[Question 3](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/3)

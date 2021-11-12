@@ -21,3 +21,6 @@ public static int factorial (int number) {
 One can see here the the factorial function takes a number, and calls *itself* on a *smaller* number (number - 1). 
 
 ### **The answer is c).**
+[Question 5](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/5)
+
+[Question 7](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/7)

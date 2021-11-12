@@ -39,3 +39,4 @@ Since there are only two boolean values, you could test each case, because there
 When `p` is true, the expression is false. When `p` is false, the expression is true. 
 
 ### **The answer is b)**.
+[Question 2](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/2)
