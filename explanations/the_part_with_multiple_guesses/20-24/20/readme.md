@@ -4,6 +4,8 @@ Consider the boolean expression, with integers a, b, c:
 ```java
 ((a == b) || !(c <= b)) || meMaybe();
 ```
+(the above is invalid code)  
+
 Which would result in `meMaybe()` being called?
 a) b < c
 b) a == b
