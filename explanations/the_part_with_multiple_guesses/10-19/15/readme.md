@@ -20,4 +20,7 @@ The problem here is that `(int)Math.random()` ALWAYS returns 0, so the "random" 
 ### d)
 `(int)(Math.random() * 5) + 10` takes a random number from 0 to 1, multiplies it by 5 (0 to 5, excluding 5), and gets the integer part, then adds 10. This is the correct algorithm.
 
-### **The correct answer is d).**[Question 14](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/14)[Question 16](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/16)
+### **The correct answer is d).**
+[Question 14](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/14)
+
+[Question 16](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/16)

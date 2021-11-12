@@ -22,3 +22,5 @@ Therefore, both `(a == b)` and `!(c <= b)` would be false.
 d) is the only answer choice that fits here. 
 
 ### **The answer is d).**
+[Question 19](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/19)
+[Question 21](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/21)

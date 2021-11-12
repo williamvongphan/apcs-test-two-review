@@ -35,3 +35,6 @@ D is wrong because the least common factor is 1 and this can be obtained in a mu
 E is wrong because `y * x` is much easier to obtain than showed in the function.
 
 ### **The answer is c).**
+[Question 21](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/21)
+
+[Question 23](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/23)

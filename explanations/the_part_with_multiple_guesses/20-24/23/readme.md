@@ -27,3 +27,7 @@ e) `HOW HOW`
 Following this protocol, we end up with `NOW HEAT`.
 
 ### **The answer is c).**
+
+[Question 22](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/22)
+
+[Question 24](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/24)

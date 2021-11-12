@@ -51,3 +51,5 @@ Yes, iterate.
 As we can see, around 8/50 iterations, n stabilizes at 3. Since n is not moving, it is safe to assume that the final value of n is 3. 
 
 ### **The answer is c).**
+
+[Question 23](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/23)

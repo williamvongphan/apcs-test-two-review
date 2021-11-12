@@ -12,4 +12,7 @@ e) None of these.
 ## Answer
 The code tries to print a string, namely, the concatenation of a string saying `"1"`, a string saying `"2"`, and a string saying `"3"`. This is valid Java code and will print `"123"`.
 
-### **The answer is b).**[Question 15](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/15)[Question 17](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/17)
+### **The answer is b).**
+[Question 15](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/15)
+
+[Question 17](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/17)

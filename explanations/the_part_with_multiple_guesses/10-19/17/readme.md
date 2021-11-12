@@ -20,4 +20,7 @@ Comparing two instances of a class we defined ourselves directly will never retu
 
 However, if we define an `equals()` method, and define the coin's default constructor, the function should return true when comparing two coins with null parameters. 
 
-### **The answer is d).**[Question 16](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/16)[Question 18](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/18)
+### **The answer is d).**
+[Question 16](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/16)
+
+[Question 18](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/18)

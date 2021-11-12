@@ -29,4 +29,7 @@ A short can hold numbers with a range of 65536 (2^16). This starts from -32768 a
 
 Since 160 < 32767, the `short` datatype can hold 160. All datatypes, above that, can hold 160.
 
-### **The answer is b).**[Question 17](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/17)[Question 19](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/19)
+### **The answer is b).**
+[Question 17](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/17)
+
+[Question 19](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/19)

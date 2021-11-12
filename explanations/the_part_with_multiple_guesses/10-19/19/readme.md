@@ -28,4 +28,7 @@ Is `x > 0`? No. Stop loop and report y value.
 
 The final value of y is 321. 
 
-### **The answer is d).**[Question 18](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/18)[Question 20](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/20)
+### **The answer is d).**
+[Question 18](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/18)
+
+[Question 20](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/20)

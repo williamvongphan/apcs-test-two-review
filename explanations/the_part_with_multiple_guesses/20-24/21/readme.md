@@ -48,3 +48,7 @@ No. Stop loop and report `sum`.
 `sum` is 12 at the end of the loop.
 
 ### **The answer is c).**
+
+[Question 20](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/20)
+
+[Question 22](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/22)
