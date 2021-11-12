@@ -14,7 +14,7 @@ public static int factorial (int number) {
 		return 1;
 	}
 	else {
-		return factorial(number - 1);
+		return n * factorial(number - 1);
 	}
 }
 ```
