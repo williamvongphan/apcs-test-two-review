@@ -18,4 +18,5 @@ e) None of these
 As always, it's helpful to look at each iteration the loop takes on here. 
 
 0. `x = 123`, `y = 0`  
-Is `x > 0`?
+Is `x > 0`? Yes.
+1. ``
