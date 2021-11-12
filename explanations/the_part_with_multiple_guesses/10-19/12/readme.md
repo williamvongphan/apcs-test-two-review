@@ -29,3 +29,5 @@ Since `byte` can clearly hold this number, all other datatypes mentioned here ca
 [Question 11](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/11)
 
 [Question 13](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/13)
+
+**[Demo!](https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=%2F*%20Are%20there%20errors%20during%20compile%3F%20*%2F%0A%0Apublic%20class%20Demo%20%7B%0A%09public%20static%20void%20main(String%5B%5D%20args)%20%7B%0A%09%09int%20x%20%3D%2089%3B%0A%09%09byte%20x1%20%3D%2089%3B%0A%09%09short%20x2%20%3D%2089%3B%0A%09%09long%20x3%20%3D%2089%3B%0A%09%09double%20x4%20%3D%2089%3B%0A%09%7D%0A%7D)**

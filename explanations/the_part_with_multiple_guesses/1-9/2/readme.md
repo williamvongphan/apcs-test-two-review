@@ -26,3 +26,5 @@ Answer Choice E prints `9 + "." + 95`, an int concatenated with a string concate
 [Question 1](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/1)
 
 [Question 3](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/3)
+
+**[Demo!](https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=public%20class%20Demo%20%7B%0A%09public%20static%20void%20main%20(String%5B%5D%20args)%20%7B%0A%09%09System.out.print(%22Choice%20a)%20prints%20%22)%3B%0A%09%09System.out.println(9%20%2B%200.95)%3B%0A%0A%09%09System.out.print(%22Choice%20b)%20prints%20%22)%3B%0A%09%09System.out.println(995%2F100.0)%3B%0A%0A%09%09System.out.print(%22Choice%20c)%20prints%20%22)%3B%0A%09%09System.out.println(9.%20%2B%2095%2F100)%3B%0A%0A%09%09System.out.print(%22Choice%20d)%20prints%20%22)%3B%0A%09%09System.out.println(9%20%2B%2095.0%2F100)%3B%0A%0A%09%09System.out.print(%22Choice%20e)%20prints%20%22)%3B%0A%09%09System.out.println(9%20%2B%20%22.%22%20%2B%2095)%3B%0A%09%7D%0A%7D)**

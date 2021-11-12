@@ -33,3 +33,5 @@ Since 160 < 32767, the `short` datatype can hold 160. All datatypes, above that,
 [Question 17](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/17)
 
 [Question 19](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/19)
+
+**[Demo!](https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=%2F*%20Are%20there%20errors%20during%20compile%3F%20*%2F%0A%0Apublic%20class%20Demo%20%7B%0A%09public%20static%20void%20main(String%5B%5D%20args)%20%7B%0A%09%09int%20x%20%3D%20160%3B%0A%09%09byte%20x1%20%3D%20160%3B%0A%09%09short%20x2%20%3D%20160%3B%0A%09%09long%20x3%20%3D%20160%3B%0A%09%09double%20x4%20%3D%20160%3B%0A%09%7D%0A%7D)**

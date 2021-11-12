@@ -52,3 +52,5 @@ No. Stop loop and report `sum`.
 [Question 20](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/20)
 
 [Question 22](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/22)
+
+**[Demo!](https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=public%20class%20Demo%20%7B%0A%09public%20static%20void%20main%20(String%5B%5D%20args)%20%7B%0A%09%09int%20p%20%3D%203%3B%20int%20q%20%3D%201%3B%20int%20sum%20%3D%200%3B%0A%09%09while%20(p%20%3C%3D%2010)%20%7B%0A%09%09%09sum%20%2B%3D%20p%20%25%20q%3B%0A%09%09%09p%20%2B%3D%201%3B%0A%09%09%09q%20%2B%3D%201%3B%0A%09%09%7D%0A%09%09System.out.println(%22Sum%20is%20now%20%22%20%2B%20sum)%3B%0A%09%7D%0A%7D)**

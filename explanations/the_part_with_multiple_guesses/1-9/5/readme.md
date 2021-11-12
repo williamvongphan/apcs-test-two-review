@@ -57,3 +57,5 @@ There are no errors in one method, and two errors in another method.
 [Question 4](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/4)
 
 [Question 6](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/6)
+
+**[Demo!](https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=%2F*%20Try%20compiling%20this%20file.%20*%2F%0A%0Apublic%20class%20GrokStatic%20%7B%0A%09public%20static%20int%20classField%3B%0A%09public%20%2F*%20non-static%20*%2F%20int%20instanceField%3B%0A%0A%09public%20static%20void%20classMethod(int%20x)%20%7B%0A%09%09classField%20%3D%2013%3B%0A%09%09instanceField%20%3D%2017%3B%0A%09%09classMethod(19)%3B%0A%09%09instanceMethod(23)%3B%0A%09%7D%0A%09public%20%2F*%20non-static%20*%2F%20void%20instanceMethod(int%20y)%20%7B%0A%09%09classField%20%3D%2029%3B%0A%09%09instanceField%20%3D%2031%3B%0A%09%09classMethod(37)%3B%0A%09%09instanceMethod(41)%3B%0A%09%7D%0A%7D)**

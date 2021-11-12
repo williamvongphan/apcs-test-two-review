@@ -36,3 +36,5 @@ The output is `"12963"`.
 [Question 2](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/2)
 
 [Question 4](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/4)
+
+**[Demo!](https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=public%20class%20Demo%20%7B%0A%09public%20static%20void%20main(String%5B%5D%20args)%20%7B%0A%09%09for%20(int%20i%20%3D%2012%3B%20i%20%3E%200%3B%20i%20-%3D%203)%20%7B%0A%09%09%09System.out.print(i)%3B%0A%09%09%7D%0A%09%7D%0A%7D)**

@@ -53,3 +53,6 @@ As we can see, around 8/50 iterations, n stabilizes at 3. Since n is not moving,
 ### **The answer is c).**
 
 [Question 23](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/23)
+
+
+**[Demo!](https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=public%20class%20Demo%20%7B%0A%09public%20static%20void%20main%20(String%5B%5D%20args)%20%7B%0A%09%09int%20n%20%3D%20253%3B%0A%09%09for%20(int%20i%20%3D%200%3B%20i%20%3C%2050%3B%20i%2B%2B)%20n%20%3D%20(n%20%2B%203)%20%2F%202%3B%0A%09%09System.out.println(%22n%20is%20now%20%22%20%2B%20n)%3B%0A%09%7D%0A%7D)**

@@ -50,3 +50,5 @@ The final value of `i` is 8.
 [Question 3](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/3)
 
 [Question 5](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/5)
+
+**[Demo!](https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=public%20class%20Demo%20%7B%0A%09public%20static%20void%20main%20(String%5B%5D%20args)%20%7B%0A%09%09int%20i%20%3D%200%3B%0A%09%09while%20(i%20%3C%208)%20%7B%0A%09%09%09System.out.print(i)%3B%0A%09%09%09i%20%2B%3D%201%3B%0A%09%09%7D%0A%09%09System.out.println(%22%5CnThe%20final%20value%20of%20i%20after%20the%20whole%20loop%20has%20executed%20is%20%22%20%2B%20i)%3B%0A%09%7D%0A%7D)**
