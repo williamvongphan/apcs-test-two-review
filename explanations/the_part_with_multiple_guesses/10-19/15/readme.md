@@ -15,3 +15,5 @@ Therefore, `Math.random() * 15` would return a random number between 0 and 15.
 ### b)
 `(int)Math.random() + 15` merely truncates the decimal off a wrong answer, therefore it's wrong too.
 ### c)
+`(int)Math.random() * 5 + 10` gets the integer part of a random number from 0 to 1, multiplies it by 5, and then adds 10. 
+The problem here is that 
