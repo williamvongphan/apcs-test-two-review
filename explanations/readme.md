@@ -11,7 +11,6 @@ Here are all the questions and links to them.
 7. [Question 7](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/7)  
 8. [Question 8](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/8)  
 9. [Question 9](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/1-9/9)  
-
 10. [Question 10](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/10)  
 11. [Question 11](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/11)  
 12. [Question 12](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/12)  
@@ -22,7 +21,6 @@ Here are all the questions and links to them.
 17. [Question 17](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/17)  
 18. [Question 18](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/18)  
 19. [Question 19](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/19)  
-
 20. [Question 20](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/20)  
 21. [Question 21](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/21)  
 22. [Question 22](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/20-24/22)  
