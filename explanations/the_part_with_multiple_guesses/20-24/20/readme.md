@@ -17,4 +17,8 @@ Java evaluates the boolean expression such that it terminates calculation when i
 
 Therefore, both `(a == b)` and `!(c <= b)` would be false. 
 
-`c <= b` would be true. 
+`c <= b` would be true, and `a != b` would also be true. 
+
+d) is the only answer choice that fits here. 
+
+### **The answer is d).**
