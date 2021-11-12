@@ -15,3 +15,4 @@ c) 12
 d) 321  
 e) None of these  
 ## Answer
+As always, it's helpful to look at each iteration the loop takes on here. 
