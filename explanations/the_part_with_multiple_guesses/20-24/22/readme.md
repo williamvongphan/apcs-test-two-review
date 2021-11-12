@@ -17,4 +17,21 @@ c) Returns the least common multiple of x and y
 d) Returns the least common factor of x and y  
 e) Returns y * x
 ## Answer
-There isn't a better way to do this so here goes a process of ele
+There isn't a better way to do this so here goes a process of elimination:
+
+### a)
+A is wrong because if we were returning factors, the values of `m` would be divided, not multiplied. Plus, why is the variable name `m` in the first place?
+
+### b)
+B is wrong because Crisco is already vegan and therefore cannot have a vegan alternative.
+
+### c) 
+There are no visible problems with this explanation.
+
+### d)
+D is wrong because the least common factor is 1 and this can be obtained in a much easier way. 
+
+### e)
+E is wrong because `y * x` is much easier to obtain than showed in the function.
+
+### **The answer is c).**
