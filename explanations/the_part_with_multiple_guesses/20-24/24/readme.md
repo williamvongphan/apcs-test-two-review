@@ -28,3 +28,22 @@ Yes, iterate.
 4. `n = 18`, `i = 4`  
 Is `i < 50`?
 Yes, iterate.
+5. `n = 10`, `i = 5`  
+Is `i < 50`?
+Yes, iterate.
+6. `n = 6`, `i = 6`  
+Is `i < 50`?
+Yes, iterate.
+0. `n = 4`, `i = 7`  
+Is `i < 50`?
+Yes, iterate.
+0. `n = 4`, `i = 7`  
+Is `i < 50`?
+Yes, iterate.
+0. `n = 4`, `i = 7`  
+Is `i < 50`?
+Yes, iterate.
+0. `n = 4`, `i = 7`  
+Is `i < 50`?
+Yes, iterate.
+
