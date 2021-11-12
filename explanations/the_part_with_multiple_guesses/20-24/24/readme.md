@@ -34,16 +34,20 @@ Yes, iterate.
 6. `n = 6`, `i = 6`  
 Is `i < 50`?
 Yes, iterate.
-0. `n = 4`, `i = 7`  
+7. `n = 4`, `i = 7`  
 Is `i < 50`?
 Yes, iterate.
-0. `n = 4`, `i = 7`  
+8. `n = 3`, `i = 8`  
 Is `i < 50`?
 Yes, iterate.
-0. `n = 4`, `i = 7`  
+9. `n = 3`, `i = 9`  
 Is `i < 50`?
 Yes, iterate.
-0. `n = 4`, `i = 7`  
+10. `n = 3`, `i = 10`  
 Is `i < 50`?
 Yes, iterate.
+...
 
+As we can see, around 8/50 iterations, n stabilizes at 3. Since n is not moving, it is safe to assume that the final value of n is 3. 
+
+### **The answer is c).**
