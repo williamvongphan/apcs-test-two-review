@@ -4,8 +4,8 @@ public class Demo {
 		while (x > 0) {
 			y *= 10;
 			y += x % 10;
-			x /= 10
+			x /= 10;
 		}
-		System.out.println("The final value of y is " + y)
+		System.out.println("The final value of y is " + y);
 	}
 }
