@@ -1,5 +1,10 @@
+/* When testing in the visualizer, don't forget the command line args! */
+
 public class Demo {
 	public static void main (String[] args) {
+		a = parseInt(args[0]);
+		b = parseInt(args[1]);
+		c = parseInt(args[2]);
 		((a == b) || !(c <= b)) || meMaybe();
 	}
 
