@@ -24,4 +24,6 @@ e) `HOW HOW`
 `w[0]` then stores the first letter of the second string followed by the rest of the first string.
 `w[1]` holds `temp` followed by the rest of the second string.
 
-Following this protocol, we end up with 
+Following this protocol, we end up with `NOW HEAT`.
+
+### **The answer is c).**
