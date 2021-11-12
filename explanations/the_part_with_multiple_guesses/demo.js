@@ -9,7 +9,7 @@ dirs1.forEach((dir) => {
 		if (fs.existsSync(`./${dir}/${dir1}/Demo.java`)) {
 			fileContents = fs.readFileSync(`./${dir}/${dir1}/Demo.java`)
 			a = encodeURIComponent(fileContents)
-			console.log("https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=" + a)
+			fs.appendFileSync(`./${dir}/${dir1}/readme.md`, "\n\n**[Demo!](https://cscircles.cemc.uwaterloo.ca/java_visualize/#code=" + a + ")**")
 		}
 	})
 })
