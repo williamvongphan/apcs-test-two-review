@@ -22,6 +22,9 @@ Yes, iterate.
 2. `n = 65`, `i = 2`  
 Is `i < 50`?
 Yes, iterate.
-0. `n = 34`, `i = 3`  
+3. `n = 34`, `i = 3`  
+Is `i < 50`?
+Yes, iterate.
+4. `n = 18`, `i = 4`  
 Is `i < 50`?
 Yes, iterate.
