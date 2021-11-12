@@ -15,4 +15,7 @@ The answer is the one that uses a different datatype than `double` because it wi
 
 In a), the value in parentheses evaluate to 6. Typecasting it to double simply changes the data type, not the value. Therefore, the end value is 6.0.
 
-### **The answer is a).** [Question 13](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/13)[Question 15](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/15)
+### **The answer is a).** 
+[Question 13](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/13)
+
+[Question 15](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/15)

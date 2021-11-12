@@ -17,4 +17,7 @@ In Java, the compiler forces the program to obey the PEMDAS system and the opera
 `(int)(-0.75)`  
 `0`  
 
-### **The answer is a).**[Question 10](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/10)[Question 12](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/12)
+### **The answer is a).**
+[Question 10](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/10)
+
+[Question 12](https://thunderredstar.me/Test-2-Review/explanations/the_part_with_multiple_guesses/10-19/12)
