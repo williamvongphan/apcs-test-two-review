@@ -6,5 +6,6 @@ public class Demo {
 			y += x % 10;
 			x /= 10
 		}
+		System.out.println("The final value of y is " + y)
 	}
 }
