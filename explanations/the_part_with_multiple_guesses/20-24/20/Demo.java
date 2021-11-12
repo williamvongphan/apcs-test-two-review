@@ -9,6 +9,6 @@ public class Demo {
 	}
 
 	public static void meMaybe () {
-		System.out.println("I was called! Yay!")
+		System.out.println("I was called! Yay!");
 	}
 }
