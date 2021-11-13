@@ -13,7 +13,7 @@ class recursion
 	}
 }
 
-public class Output {
+class Output {
 	public static void main(String[] args)
 	{
 		recursion obj = new recursion();
